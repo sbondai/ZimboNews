@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btn_next;
     ProgressDialog progressDialog;
     private static int nPage ;
+    //New changes
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
